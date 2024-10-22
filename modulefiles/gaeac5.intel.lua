@@ -13,4 +13,4 @@ load(pathJoin("cmake", cmake_ver))
 
 load("common")
 
-whatis("Description: GSI Monitoring environment on Gaea with Intel Compilers")
+whatis("Description: GSI Monitoring environment on GaeaC5 with Intel Compilers")
